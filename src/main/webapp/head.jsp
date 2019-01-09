@@ -87,9 +87,17 @@
 						</ul>
 					</li>
 					<li class="nav navbar-nav pull-right">
-					<a href="#"  onclick="gouserInfo()" style="font-weight:bold;" >系统管理</a>
+					<a href="#"  onclick="gouserInfo()" style="font-weight:bold;" >系统管理V2.7.1</a>
 					</li>
 				</ul>
+				
+					
+				   
+					
+				
+				
+				    
+				    
 			</div><!--/.nav-collapse -->
 			<div class="navbar-collapse collapse" style="margin-right:3%">
 			     <ul class="nav navbar-nav pull-right">
